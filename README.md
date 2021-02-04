@@ -21,7 +21,7 @@ Stand up your favorite kind of database (and ideally it would be in a form that 
 
 ## The Task (Part 2):
 
-Write a script to import the relevant fields in starlink_historical_data.json as a time series. The relevant fields are:
+Write a script (in whatever language that you prefer, though Ruby, Python, or Javascript would be ideal for us) to import the relevant fields in starlink_historical_data.json as a time series. The relevant fields are:
     - spaceTrack.creation_date (represents the time that the lat/lon records were recorded)
     - longitude
     - latitude
