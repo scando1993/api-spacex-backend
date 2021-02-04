@@ -26,7 +26,7 @@ Import the relevant fields in starlink_historical_data.json as a time series. Th
     - longitude
     - latitude
     - id (this is the starlink satellite id)
-Again, the goal is that we want to be able to query the database for the last known position for a given starlink satellite
+Again, the goal is that we want to be able to query the database for the last known position for a given starlink satellite.
 Don't hesitate to use any tools/tricks you know to load data quickly and easily!
 
 ## The Task (Part 3):
