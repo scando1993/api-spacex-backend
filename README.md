@@ -35,7 +35,7 @@ Write a query to fetch the the last known position of a satellite (by id), given
 
 ## Bonus Task (Part 4):
 
-Write a query (or plain old application logic??) to fetch from the database the _closest_ satellite at a given time T, and a given a position on a globe as a (latitude, longitude) coordinate.
+Write some logic (via a combination of query + application logic, most likely) to fetch from the database the _closest_ satellite at a given time T, and a given a position on a globe as a (latitude, longitude) coordinate.
 
 No need to derive any fancy match for distances for a point on the globe to a position above the earth. You can just use the Haversine formula. Example libraries to help here:
 For Python: https://github.com/mapado/haversine
