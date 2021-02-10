@@ -46,7 +46,7 @@ For Ruby: https://github.com/kristianmandrup/haversine
 ### How to Submit
 
 1. Run through it one last time to make sure it works!
-2. Push the code up to your forked repo one last time (or save your working directory to a 'zip')
+2. Push the code up to your repo one last time (or save your working directory to a 'zip')
 3. Reach out to us with your solution
 
 ### Questions
