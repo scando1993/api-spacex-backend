@@ -31,7 +31,7 @@ Don't hesitate to use any tools/tricks you know to load data quickly and easily!
 
 ## The Task (Part 3):
 
-Write a query to fetch the the last known position of a satellite (by id), given a time T. Include this query in your README or somewhere in the project submission
+Write a query to fetch the last known position of a satellite (by id), given a time T. Include this query in your README or somewhere in the project submission
 
 ## Bonus Task (Part 4):
 
