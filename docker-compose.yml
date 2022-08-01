@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  cache:
+    image: questdb/questdb
+    restart: always
+    ports:
+      - '9000:9000'
+      - '8812:8812'
